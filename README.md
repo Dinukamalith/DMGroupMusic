@@ -23,5 +23,4 @@ Get pyrogram STRING_NAME from here:
 - [Original Repo](https://github.com/suprojects/CallsMusic)
 - [Infinity BOTs](https://t.me/Infinity_BOTs)
 - [Uvindu Bro](https://t.me/Uvindu_Bro)
-- [Dinuka Malith](https://t.me/dinukamalith)
 
